@@ -1,5 +1,5 @@
 {
-  "description": "Engenheiro Full Stack construindo aplicações web de alta performance e ferramentas para desenvolvedores. Atualmente criando interfaces na Vercel",
+  "description": "Desenvolvedor Backend Júnior",
   "nav": {
     "about": "sobre",
     "projects": "projetos",
@@ -7,90 +7,90 @@
     "contact": "contato"
   },
   "hero": {
-    "title": "Engenheiro Full Stack",
-    "p1": "construindo aplicações web de alta performance e ferramentas para desenvolvedores. Atualmente criando interfaces na Vercel",
-    "p2": "Anteriormente lancei produtos na Linear, Stripe e startups. Prezo por código limpo, carregamento rápido e UX atenciosa.",
-    "p3": "Quando não estou programando, contribuo para open source, escrevo sobre performance web ou exploro novos frameworks."
+    "title": "Desenvolvedor Backend Júnior",
+    "p1": "Desenvolvedor backend júnior com uma base sólida em Java e SQL, focado na construção de aplicações backend limpas, seguras e bem estruturadas.",
+    "p2": "Confortável trabalhando com Spring Boot e Spring Security, com experiência prática no design de APIs REST e no uso de bancos de dados relacionais.",
+    "p3": "Fluente em inglês e em aprendizado contínuo, com formação básica em Inteligência Artificial e forte interesse em arquitetura backend, integridade de dados e boas práticas."
   },
   "projects": {
     "title": "Projetos",
     "item_1": {
-      "name": "hybrid-astro-ui",
-      "description": "Elementos de UI para Astro usando um modelo híbrido: Astro zero-JS + melhoria progressiva com web components.",
+      "name": "Marketplace",
+      "description": "Sistema de gestão de supermercado orientado ao backend, desenvolvido com Spring Boot e banco de dados relacional, focado em inventário de produtos, persistência de dados e lógica de negócio estruturada.",
       "link": "https://github.com/JorgeRosbel/hybrid-astro-ui"
     },
     "item_2": {
-      "name": "http-sentinel",
-      "description": "Biblioteca TypeScript que fornece um conjunto de utilitários e classes de erro HTTP para manipulação eficiente.",
+      "name": "Deal-Uni-Work",
+      "description": "API backend desenvolvida com Spring Boot para ajudar graduados de universidades de diferentes partes do mundo a se conectarem mais facilmente com oportunidades de emprego, com foco em gerenciamento de dados e serviços REST.",
       "link": "https://github.com/JorgeRosbel/http-sentinel"
     },
     "item_3": {
-      "name": "gitzen",
-      "description": "Ferramenta CLI baseada em IA para geração automática de mensagens de commit no git.",
+      "name": "LearnHub",
+      "description": "Sistema backend desenvolvido com Spring Boot e banco de dados relacional para gerenciar matrículas em cursos, usuários e controle de acesso em uma plataforma de aprendizado online.",
       "link": "https://github.com/JorgeRosbel/gitzen"
     },
     "item_4": {
-      "name": "NovaBoost",
-      "description": "Template de blog gratuito para Astro 5 e TailwindCSS otimizado para SEO, com JSON-LD e geração de posts por IA.",
+      "name": "JobBridge API",
+      "description": "API RESTful backend desenvolvida com Spring Boot para conectar candidatos juniores a oportunidades de trabalho, gerenciando papéis de usuário, vagas, candidaturas e autenticação segura.",
       "link": "https://github.com/JorgeRosbel/NovaBoost"
     },
     "item_5": {
-      "name": "astro-i18n",
-      "description": "Biblioteca de internacionalização (i18n) simples para Astro com suporte para TypeScript.",
+      "name": "SmartInventory API",
+      "description": "Sistema backend de gestão de inventário desenvolvido com Spring Boot e banco de dados relacional, focado em rastreamento de produtos, controle de estoque e lógica de negócio estruturada.",
       "link": "https://github.com/JorgeRosbel/astro-i18n"
     },
     "item_6": {
-      "name": "astro-collections",
-      "description": "Biblioteca de utilitários para Astro que oferece componentes para gestão facilitada de coleções.",
+      "name": "Eventify Backend",
+      "description": "Sistema backend desenvolvido com Spring Boot para gerenciar eventos, reservas e participação de usuários, implementando controle de capacidade e persistência de dados.",
       "link": "https://github.com/JorgeRosbel/astro-collections"
     },
     "item_7": {
-      "name": "Geofisik Tool",
-      "description": "Aplicação web geofísica para monitorar deslocamentos verticais em estruturas com mapas interativos e séries temporais.",
+      "name": "PayTrack API",
+      "description": "API backend desenvolvida com Spring Boot para gerenciar pagamentos, assinaturas e registros de transações, com foco em integridade de dados e design orientado a serviços.",
       "link": "https://tool.geofisik.com/"
     },
     "item_8": {
-      "name": "EmoteShowcase",
-      "description": "App web para redimensionamento e visualização dinâmica de emotes com prévias ao vivo e exportação otimizada.",
+      "name": "SupportDesk Backend",
+      "description": "Sistema backend de tickets desenvolvido com Spring Boot para gerenciar solicitações de suporte, papéis de usuários e o ciclo de vida dos tickets por meio de serviços REST.",
       "link": "https://emoteshowcase.com/"
     }
   },
   "experience": {
     "title": "Experiência",
     "item_1": {
-      "period": "2024 — presente",
-      "role": "Engenheiro Sênior",
-      "company": "Vercel",
-      "description": "Construindo a nuvem frontend. Trabalhando no dashboard, infraestrutura de deploy e experiência do desenvolvedor."
+      "period": "2024 — agora",
+      "role": "Desenvolvedor Backend Júnior",
+      "company": "Projetos Pessoais e Acadêmicos",
+      "description": "Desenvolvimento de aplicações backend com Java e Spring Boot, com foco em APIs REST, persistência de dados e arquitetura limpa por meio de projetos práticos."
     },
     "item_2": {
-      "period": "2022 — 2024",
-      "role": "Engenheiro de Software",
-      "company": "Linear",
-      "description": "Sincronização em tempo real, interações focadas em teclado e otimizações de performance."
+      "period": "2023 — 2024",
+      "role": "Desenvolvedor Backend (Estudante)",
+      "company": "Projetos Universitários",
+      "description": "Construção de múltiplos sistemas backend utilizando Spring Boot e SQL, modelando domínios do mundo real como gestão de inventário, plataformas de emprego e sistemas de matrícula em cursos."
     },
     "item_3": {
-      "period": "2020 — 2022",
-      "role": "Desenvolvedor Full Stack",
-      "company": "Stripe",
-      "description": "Projetei fluxos de pagamento e painéis para lojistas. Liderei a migração para React 18 e melhorei os pipelines de CI/CD."
+      "period": "2023",
+      "role": "Estagiário em Desenvolvimento de Software",
+      "company": "Autoaprendizado e Cursos",
+      "description": "Fortalecimento de conceitos fundamentais de programação em Java, design orientado a objetos, bancos de dados e fundamentos de backend por meio de cursos estruturados e prática."
     },
     "item_4": {
-      "period": "2018 — 2020",
-      "role": "Engenheiro Frontend",
-      "company": "Startup Iniciante",
-      "description": "Primeiro engenheiro contratado. Construí o produto principal do zero usando Next.js e Tailwind CSS."
+      "period": "2022 — 2023",
+      "role": "Estudante de Ciência da Computação",
+      "company": "Universidad El Bosque",
+      "description": "Formação acadêmica em desenvolvimento de software, bancos de dados e design de sistemas, com forte foco em desenvolvimento backend e resolução de problemas."
     }
   },
   "contact": {
-    "status": "Disponível para freelance/trabalho",
-    "email_label": "Email",
-    "email_url": "mailto:tu@email.com",
+    "status": "Disponível para oportunidades",
+    "email_label": "email",
+    "email_url": "mailto:pipenarvaez72004@gmail.com",
     "github_label": "GitHub",
-    "github_url": "https://github.com/tu-usuario",
+    "github_url": "https://github.com/JustinNarvaez",
     "x_label": "X",
-    "x_url": "https://x.com/tu-usuario",
-    "linkedin_label": "Linkedin",
-    "linkedin_url": "https://linkedin.com/in/tu-perfil"
+    "x_url": "",
+    "linkedin_label": "LinkedIn",
+    "linkedin_url": "https://www.linkedin.com/in/justin-narvaez-220678219/"
   }
 }
