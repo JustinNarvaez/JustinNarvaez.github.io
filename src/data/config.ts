@@ -2,11 +2,11 @@ export const CONFIG = {
   // ---------------------------------------------------------------------------
   // Site Settings
   // ---------------------------------------------------------------------------
-  site: {
-    url: "https://alexmercer.dev",
-    locale: "en_US",
-    twitterHandle: "@alexmercer_dev",
-  },
+site: {
+  url: "https://JustinNarvaez.github.io",
+  locale: "es_CO",
+  twitterHandle: "@JustinNarvaez",
+},
 
   // ---------------------------------------------------------------------------
   // SEO Settings
